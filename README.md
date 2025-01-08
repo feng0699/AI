@@ -22,6 +22,19 @@ This project aims to demonstrate the concepts and skills I am learning in **AI-A
 - Linking different applications to streamline workflows.
 - Utilizing **GenAI** to enable non-developers to benefit from programming.
 
+## Projects
+
+Below are some of the projects I’ve worked on as part of this course:
+
+1. **AI JIRA Commenting Tool**  
+   GitHub Repository: [feng0699/AI-JIRA-Commenting](https://github.com/feng0699/AI-JIRA-Commenting.git)
+
+2. **Coming Soon**  
+   Additional projects will be added as they are developed.
+
+3. **Coming Soon**  
+   Stay tuned for more AI-assisted tools and workflows!
+
 ## Getting Started
 
 To get started with this project, simply clone this repository to your local machine. The project may include scripts or instructions to help you implement AI-assisted workflows on your system.
