@@ -1,4 +1,4 @@
-# AI-Assisted Programming Project
+# AI-Assisted Programming Projects
 
 Welcome to the repository for my project based on the **AI-Assisted Programming** course! This project is part of my learning journey in exploring AI's practical applications in IT-related work. I am the builder of this project and am actively learning as I progress. This repository reflects my work and understanding gained throughout the course.
 
